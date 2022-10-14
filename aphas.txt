@@ -1,0 +1,7 @@
+gid alpha model
+127 0.0001 quantile
+127 0.0001 prob
+299 0.0005 quantile
+299 0.? prob
+    
+
